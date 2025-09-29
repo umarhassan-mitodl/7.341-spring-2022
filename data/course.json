@@ -34,7 +34,8 @@
     "website": "turning-evolutionary-dials-directed-evolution-techniques-for-climate-change-and-beyond"
   },
   "course_title": "Turning Evolutionary Dials: Directed Evolution Techniques for Climate Change and Beyond",
-  "course_description": "This course will cover the many ways in which we have realized evolution in the laboratory toward functional biomolecules, such as protein and nucleic-acid-based therapeutics, enzymes that catalyze production of synthetic drugs, and carbon-dioxide capture molecules to lessen the impact of climate change. Students will both become familiar with the field of directed molecular evolution and learn how to critically analyze primary research papers, design research experiments, and present data relating to molecular biology and evolution. The importance of directed evolution in biomedical and biotechnological careers, both academic and industrial, will be highlighted.\n\nThis course is one of many {{% resource_link \"19e4f413-2499-432d-9b81-8189cc49d793\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.",
+  "hide_download": true,
+  "course_description": "This course will cover the many ways in which we have realized evolution in the laboratory toward functional biomolecules, such as protein and nucleic-acid-based therapeutics, enzymes that catalyze production of synthetic drugs, and carbon-dioxide capture molecules to lessen the impact of climate change. Students will both become familiar with the field of directed molecular evolution and learn how to critically analyze primary research papers, design research experiments, and present data relating to molecular biology and evolution. The importance of directed evolution in biomedical and biotechnological careers, both academic and industrial, will be highlighted.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.",
   "department_numbers": [
     "7"
   ],
@@ -44,6 +45,7 @@
     "content": "12515bc4-595b-4573-a621-fbf3c852fff2",
     "website": "turning-evolutionary-dials-directed-evolution-techniques-for-climate-change-and-beyond"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments"
