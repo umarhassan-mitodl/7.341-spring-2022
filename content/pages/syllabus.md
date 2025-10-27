@@ -12,9 +12,9 @@ Lectures: 1 session / week, 2 hours / session
 
 ## Prerequisites
 
-[*7.06 Cell Biology*](https://ocw.mit.edu/courses/res-7-007-7-06x-cell-biology/)
+{{% resource_link "e4fc3f4f-705c-4a55-9933-27ce125f2d23" "*7.06 Cell Biology*" %}}
 
-[*7.28 Molecular Biology*](https://ocw.mit.edu/courses/7-28-molecular-biology-spring-2005)
+{{% resource_link "b6cad32e-d612-4cc5-b45a-4024eacae333" "*7.28 Molecular Biology*" %}}
 
 ## Course Description
 
